@@ -2,7 +2,7 @@
   "bundleDependencies": false,
   "dependencies": {
     "assign-deep": "^0.4.5",
-    "react-native-swiper": "git+https://github.com/FuYaoDe/react-native-swiper.git"
+    "react-native-swiper": "git+https://github.com/qudde/qolly-rn-swiper.git"
   },
   "deprecated": false,
   "license": "ISC",
